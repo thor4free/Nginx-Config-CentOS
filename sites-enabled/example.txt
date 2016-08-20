@@ -1,0 +1,1 @@
+Para habilitar el sitio, la configuración de enlace simbólico en este directorio.
