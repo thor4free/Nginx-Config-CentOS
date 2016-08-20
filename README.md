@@ -40,7 +40,7 @@ Prueba de la configuración:
 
 Si pasa la configuración, reinicie Nginx:
 
-'sudo systemctl start nginx'
+`sudo systemctl start nginx`
 
 
 
